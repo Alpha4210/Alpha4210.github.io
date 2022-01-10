@@ -26,3 +26,8 @@ a.link{
     width: 322px;
     height: 157px;
 }
+
+p.note{
+    font-size: 17px;
+    color: rgb(4, 0, 255);
+}
